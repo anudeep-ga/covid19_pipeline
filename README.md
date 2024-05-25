@@ -81,3 +81,21 @@ b. Data Bricks
   - Data Connection: Connected Power BI to the Azure SQL database the storage location where the transformed data resides.
   - Visualization: Developed charts, graphs, and interactive dashboards to represent key metrics and trends in COVID-19 data.
   - Scheduled Updates: Enabled scheduled updates to ensure that the analytics data remains current and reflective of the latest information.
+
+ ## BI Dashboard
+
+![Image](https://github.com/anudeep-ga/covid19_pipeline/blob/main/covid_data_pipeline.png?raw=true)
+
+## Conclusion
+The Azure-based data pipeline's successful deployment signifies a pivotal advancement in
+streamlining COVID-19 data management. From ingestion to dashboard creation, the pipeline
+ensures seamless information flow, empowering stakeholders with real-time insights. Azure's
+robust services contribute to scalability, reliability, and operational efficiency, enhancing the
+pipeline's overall performance and utility.
+
+## Future Work
+In the future, optimizing data processing speed, exploring additional data sources, and
+fortifying security measures are paramount. Continuous performance monitoring, adaptation
+to emerging technologies, and integration of predictive analytics through machine learning will
+further elevate the pipeline's capabilities. Regular updates will be essential to align with
+evolving global health demands and maintain the pipeline's agility and effectiveness.
